@@ -30,7 +30,7 @@ past your data into file settings.ini
 
 (root is required in android )
 
-[+] - git clone https://github.com/abdoxfox/http-ssl-ssh-injector.git
+[+] - git clone -b macOS https://github.com/alfatihart/http-ssl-ssh-injector.git
 
 # steps :
 
