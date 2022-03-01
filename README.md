@@ -2,7 +2,7 @@
 waiting for your opinions 
 
 # http-ssl-ssh-tunneling
-http ssl ssh tunneling vpn for android and linux devices
+http ssl ssh tunneling vpn for macOS devices
 
 # whats new!
 
