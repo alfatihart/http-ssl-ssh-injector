@@ -38,9 +38,7 @@ past your data into file settings.ini
 
 [+] - cd http-ssl-ssh-injector
 
-[+] - sudo  or tsu for termux  #run as root
-
-[+] - chmod +x runvpn.sh
+[+] - sudo chmod +x runvpn.sh  #run as root
 
 [+] - ./runvpn.sh
 
